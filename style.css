@@ -1,22 +1,16 @@
 body {
-  background-color:
+  background-color: white;
   color: black;
   font-family: Calibri, Arial, Helvetica, sans-serif;
+  margin-right: 50%;
+  margin-left: 50%;
 }
 
 .contact-heading {
-  line-height: 100%;
+  line-height: auto;
   display: flex;
-}
-
-.phone {
-  /* display: flex; */
-  /* justify-content: right; */
-}
-
-.email {
-  /* display: flex; */
-  /* justify-content: flex-end */
+  margin-top: -25px;
+  margin-bottom: 93px;
 }
 
 .container {
@@ -56,4 +50,12 @@ body {
   text-align: center;
   background-color: maroon;
   color: white;
+}
+
+img {
+width: 38%;
+  float: right;
+  margin-top: 5px;
+  margin-right: 5px
+  
 }
