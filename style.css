@@ -1,25 +1,59 @@
 body {
-  /* background-color: green; */
+  background-color:
   color: black;
   font-family: Calibri, Arial, Helvetica, sans-serif;
 }
 
-.contactHeading {
+.contact-heading {
   line-height: 100%;
-  /* display: flex; */
+  display: flex;
 }
 
 .phone {
-  display: flex;
+  /* display: flex; */
   /* justify-content: right; */
 }
 
 .email {
-  display: flex;
-  justify-content: flex-end
+  /* display: flex; */
+  /* justify-content: flex-end */
 }
 
 .container {
+  background-color:
   height: 1500px;
   width: 723px;
+}
+
+.sub-heading2 {
+  font-style: italic;
+  margin-top: -18px;
+}
+
+.sub-heading1 {
+  font-style: italic;
+  margin-top: -18px;
+}
+
+.sub-heading3 {
+  font-style:italic;
+    margin-top:-18px;
+}
+
+.work-header {
+  text-align: center; 
+  background-color: maroon;
+  color: white
+}
+
+.education-header {
+  text-align: center;
+  background-color: maroon;
+  color: white
+}
+
+.skills-header {
+  text-align: center;
+  background-color: maroon;
+  color: white;
 }
