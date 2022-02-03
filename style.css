@@ -1,1 +1,25 @@
+body {
+  /* background-color: green; */
+  color: black;
+  font-family: Calibri, Arial, Helvetica, sans-serif;
+}
 
+.contactHeading {
+  line-height: 100%;
+  /* display: flex; */
+}
+
+.phone {
+  display: flex;
+  /* justify-content: right; */
+}
+
+.email {
+  display: flex;
+  justify-content: flex-end
+}
+
+.container {
+  height: 1500px;
+  width: 723p;
+}
