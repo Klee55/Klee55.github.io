@@ -4,32 +4,44 @@ body {
   font-family: Calibri, Arial, Helvetica, sans-serif;
 }
 
+.name {
+  margin-right: 8%;
+  margin-left: 43%;
+  color: black;
+  text-align: left
+}
+
 .contact-heading {
   line-height: auto;
-  display: flex;
-  margin-top: -25px;
-  margin-bottom: 93px;
+  margin-top: 90px;
+  margin-bottom: -15px;
+  text-align: left;
+  margin-right: 8%;
+  margin-left: 43%;
 }
 
 .container {
   background-color: #f2ebec;
-  height: 1300px;
-  width: 723px;
+  height: 1330px;
+  width: 740px;
 }
 
 .sub-heading2 {
   font-style: italic;
   margin-top: -18px;
+  margin-left: 1%;
 }
 
 .sub-heading1 {
   font-style: italic;
   margin-top: -18px;
+  margin-left: 1%;
 }
 
 .sub-heading3 {
   font-style:italic;
     margin-top:-18px;
+  margin-left: 1%;
 }
 
 .work-header {
@@ -52,7 +64,41 @@ body {
 
 img {
 width: 40.8%;
-  float: right;
-  margin-top: 5px;
-  margin-right: 5px
+  float: left;
+  margin-top: 5.5px;
+  margin-left: 5.5px;
+}
+
+.subhead-info {
+  margin-top: -10px;
+  margin-bottom: 30px;
+  margin-right: 2%;
+}
+
+.subhead-info2 {
+  margin-top: -10px;
+  margin-bottom: 30px;
+  margin-right: 2%;
+}
+
+.subhead-info3 {
+  margin-top: -10px;
+  margin-bottom: 30px;
+  margin-right: 2%;
+}
+
+.title { 
+margin-left: 1%;
+}
+
+.title2 {
+  margin-left: 1%;
+}
+
+.title3 {
+  margin-left: 1%;
+}
+
+.school {
+  margin-left: 1%;
 }
